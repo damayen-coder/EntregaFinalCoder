@@ -1,0 +1,15 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "proyecto coder house",
+  "main": "index.js",
+  "scripts": {
+    
+    "build-sass": "sass ./sass/main.scss ./css/main.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
